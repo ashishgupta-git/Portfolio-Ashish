@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .cv-container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+  
+  .cv-name {
+    font-size: 32px;
+    margin: 0;
+  }
+  
+  .cv-job-title {
+    font-size: 18px;
+    color: #555;
+    margin-top: 5px;
+  }
+  
+  .cv-section {
+    font-size: 24px;
+    margin-top: 20px;
+  }
+  
+  .cv-about {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  
+  .cv-education,
+  .cv-skills,
+  .cv-experience,
+  .cv-project {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .cv-date {
+    color: #777;
+    font-style: italic;
+  }
+  
+  .cv-skills li {
+    list-style: disc;
+    margin-left: 20px;
+  }
+  
